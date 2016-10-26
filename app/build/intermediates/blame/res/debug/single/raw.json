@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Codetribe\\Desktop\\Love_bug\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cash_register.wav",
+        "source": "C:\\Users\\Codetribe\\Desktop\\Love_bug\\app\\src\\main\\res\\raw\\cash_register.wav"
+    },
+    {
+        "merged": "C:\\Users\\Codetribe\\Desktop\\Love_bug\\app\\build\\intermediates\\res\\merged\\debug\\raw\\rooster.mp3",
+        "source": "C:\\Users\\Codetribe\\Desktop\\Love_bug\\app\\src\\main\\res\\raw\\rooster.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Codetribe\\Desktop\\Love_bug\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cow_mooing.mp3",
+        "source": "C:\\Users\\Codetribe\\Desktop\\Love_bug\\app\\src\\main\\res\\raw\\cow_mooing.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Codetribe\\Desktop\\Love_bug\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cha_ching_sound.mp3",
+        "source": "C:\\Users\\Codetribe\\Desktop\\Love_bug\\app\\src\\main\\res\\raw\\cha_ching_sound.mp3"
+    }
+]
